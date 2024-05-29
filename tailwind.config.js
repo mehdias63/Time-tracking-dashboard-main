@@ -8,9 +8,12 @@ export default {
     },
     extend: {
       colors: {
-        "dark-purple": "#24053E",
-        "light-green": "#44FFA1",
-        "dark-gray": "#584D62",
+        "light-orange": "#FF8B64",
+        "light-blue": "#55C2E6",
+        "light-red": "#FF5E7D",
+        "light-green": "#4BCF82",
+        "light-purple": "#7335D2",
+        "light-yellow": "#F1C75B",
       },
     },
   },
