@@ -3,8 +3,7 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      fraun: ["Fraunces"],
-      man: ["Manrope"],
+      rub: ["Rubik"],
     },
     extend: {
       colors: {
@@ -14,6 +13,10 @@ export default {
         "light-green": "#4BCF82",
         "light-purple": "#7335D2",
         "light-yellow": "#F1C75B",
+        "verydark-blue": "#0E1323",
+        "dark-blue": "#1C204B",
+        "blue-sky": "#BBC0FF",
+        "dark-purple": "#5747EA",
       },
     },
   },

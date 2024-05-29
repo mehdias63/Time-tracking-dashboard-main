@@ -6,7 +6,18 @@ function App() {
   
 
   return (
-   <div className='flex flex-col gap-[6rem]'>
+   <div className='flex flex-col justify-center items-center gap-[6rem] max-w-[90rem] text-white py-10 font-rub'>
+    <div className='bg-dark-blue rounded-xl w-[20rem] h-[12.5rem] mb-[-4rem]'>
+      <div className='bg-dark-purple flex px-5 items-center w-[20rem] h-[8.5rem] rounded-xl'>
+        <img src='/images/image-jeremy.png' className='w-[4.875rem] border-4 rounded-full' />
+        <p className='ml-auto text-blue-sky text-[0.9375rem]'>Report for <span className='block text-2xl text-white'>Jeremy Robson</span></p>
+      </div>
+      <div className='flex justify-center items-center gap-8 mt-4 text-xl'>
+        <a>Daily</a>
+        <a>Weekly</a>
+        <a>Monthly</a>
+      </div>
+    </div>
     <Card
     color="#FF8B64"
     icon="/images/icon-work.svg"
