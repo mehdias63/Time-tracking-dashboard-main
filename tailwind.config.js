@@ -16,6 +16,7 @@ export default {
         "verydark-blue": "#0E1323",
         "dark-blue": "#1C204B",
         "blue-sky": "#BBC0FF",
+        "blue-hover": "#33397A",
         "dark-purple": "#5747EA",
       },
     },

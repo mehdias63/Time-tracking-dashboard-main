@@ -7,7 +7,7 @@ function App() {
 
   return (
    <main className='flex flex-col md:flex-row justify-center items-center md:items-start gap-[6rem] md:gap-4 max-w-[90rem] text-white py-10 font-rub mx-auto'>
-    <div className='bg-dark-blue rounded-xl w-[20rem] h-[12.5rem] md:h-[34rem] lg:h-[32rem] mb-[-4rem] lg:mb-4'>
+    <div className='bg-dark-blue rounded-xl w-[20rem] h-[12.5rem] md:h-[34rem] lg:h-[31.8rem] mb-[-4rem] lg:mb-4'>
       <div className='bg-dark-purple flex md:flex-col px-5 items-center md:items-start md:p-9 w-[20rem] h-[8.5rem] md:h-[21rem] rounded-xl'>
         <img src='/images/image-jeremy.png' className='w-[4.875rem] border-4 rounded-full' />
         <p className='ml-auto md:ml-0 text-blue-sky text-[0.9375rem] md:mt-12'>Report for <span className='block text-2xl text-white md:mr-[6rem] md:text-[2.5rem] md:mt-4 md:leading-10'>Jeremy Robson</span></p>
